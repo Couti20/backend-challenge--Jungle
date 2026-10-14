@@ -1,0 +1,10 @@
+node_modules
+.git
+.env
+coverage
+.tools
+docs/estudos
+.agents
+.aws
+.codex
+entrega-backend-challenge.zip
